@@ -1,0 +1,35 @@
+.header-title {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.header-title_image {
+  width: 40px;
+  height: 40px;
+}
+
+.header-title_text {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  margin-left: 16px;
+}
+
+.header-title_text h1 {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 24px;
+  text-transform: uppercase;
+  margin: 0;
+}
+
+.header-title_text p {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 17px;
+  color: #9d9d9d;
+  margin: 0;
+}
