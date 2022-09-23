@@ -1,0 +1,19 @@
+.bannerTitle {
+  display: flex;
+  justify-content: space-around;
+  flex-direction: column;
+}
+
+.bannerTitle h1 {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 38px;
+  line-height: 46px;
+
+  color: #8bb43c;
+}
+
+.bannerTitle button {
+  background: #a5d364;
+  border-radius: 110px;
+}

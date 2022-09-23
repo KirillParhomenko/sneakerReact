@@ -1,4 +1,4 @@
-import HeaderTitleImage from './Img/HeaderTitleImage.png'
+import HeaderTitleImage from '../Img/HeaderTitleImage.png'
 
 import './HeaderTitle.css'
 

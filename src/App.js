@@ -1,13 +1,15 @@
-import Header from './components/Header';
+import HeaderWrapper from "./components/Header/HeaderWrapper";
+import Banner from "./components/Banner/Banner";
 
-import './App.css'
+import "./App.css";
 
 const App = () => {
   return (
     <div className="wrapper">
-      <Header/>
+      <HeaderWrapper />
+      <Banner />
     </div>
   );
-}
+};
 
 export default App;
