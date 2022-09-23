@@ -1,5 +1,6 @@
 .bannerTitle {
   display: flex;
+  flex: 0 0 35%;
   justify-content: space-around;
   flex-direction: column;
 }
@@ -7,9 +8,7 @@
 .bannerTitle h1 {
   font-style: normal;
   font-weight: 700;
-  font-size: 38px;
-  line-height: 46px;
-
+  font-size: 3vw;
   color: #8bb43c;
 }
 
