@@ -1,13 +1,13 @@
-import BannerTitle from "./BannerTitle";
-import BannerImage from "../Img/BannerImage.png";
+import BannerInfo from "./BannerInfo";
+import BannerImg from "./BannerImg";
 
 import "./Banner.css";
 
 const Banner = () => {
   return (
     <div className="banner">
-      <BannerTitle />
-      <img src={BannerImage}/>
+      <BannerInfo />
+      <BannerImg /> 
     </div>
   );
 };

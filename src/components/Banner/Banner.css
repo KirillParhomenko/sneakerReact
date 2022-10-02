@@ -4,16 +4,8 @@
   flex-direction: row;
   justify-content: space-between;
   width: 85%;
-  height: auto;
   background: #f4efe9;
   border-radius: 20px;
   margin: 0 auto;
   margin-top: 45px;
-}
-
-.banner img {
-  flex: 0 0 65%;  
-  width: 100%;
-  height: auto;
-  overflow: hidden;
 }

@@ -1,0 +1,27 @@
+.bannerInfo {
+  display: flex;
+  flex: 0 0 35%;
+  justify-content: space-between;
+  flex-direction: column;
+}
+
+.bannerInfo-title h1 {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 3vw;
+  color: #8bb43c;
+}
+
+.bannerInfo-button button {
+  background: #a5d364;
+  border-radius: 110px;
+}
+
+.bannerInfo-logo {
+  width: 30%;
+}
+
+.bannerInfo-logo img {
+  width: 100%;
+  overflow: hidden;
+}

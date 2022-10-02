@@ -1,0 +1,8 @@
+.bannerImg {
+  flex: 0 0 65%;
+}
+
+.bannerImg img {    
+width: 100%;    
+overflow: hidden;
+}
